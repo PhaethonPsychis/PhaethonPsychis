@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br>I am Phaethon Psychis a passionate founder. I explore the use of blockchain technologies in the discourse of Architecture, Urban Design, Decentralized Public Policy Platforms. I want to help the citizens of the world to have fair access to growth and funding mechanisms. In more simple terms I build technologies to allow people to find a job and put food on the table, while helping society to advance.</br>
+<br>I am Phaethon Psychis a passionate founder. I explore the use of blockchain technologies in the discourse of Architecture, Urban Design, Decentralized Public Policy Platforms. I want to help the citizens of the world to have fair access to growth and funding mechanisms. In more simple terms I build technologies to allow people to find a job and put food on the table while helping society to advance.</br>
 <br>Before you ask: My surname Psychis arrives from the Greek work Psyche that means soul. A direct translation of my surname in English is "soulman". Phaethon the Soulman. I like Psychis pronounced Saikeez. It has character and brakes the ice.</br>
 
 <!--
