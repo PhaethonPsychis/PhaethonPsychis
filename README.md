@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Phaethon Psychis a passionate founder. I explore the use of blockchain technologies in the discourse of Architecture, Urban Design, Decentralized Public Policy Platforms. I want to help the citizens of the world to have fair access to growth and funding mechanisms. In more simple terms I build technologies to allow people to find a job and put food on the table, while helping society to advance.
 
 <!--
 **PhaethonPsychis/PhaethonPsychis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
