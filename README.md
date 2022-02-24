@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# List of resources I use these days to learn
+# List of resources I use these days to learn while building
+### Articles
 https://betterprogramming.pub/handling-nft-presale-allow-lists-off-chain-47a3eb466e44</br>
 https://betterprogramming.pub/nft-beginner-tutorial-pepsi-nft-smart-contract-explained-962721b7361a</br>
 https://medium.com/tally-blog/erc721votes-dao-governance-comes-to-nfts-38b6b76f98c8</br>
