@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# List of resources I use these days to learn
+https://betterprogramming.pub/handling-nft-presale-allow-lists-off-chain-47a3eb466e44</br>
+https://betterprogramming.pub/nft-beginner-tutorial-pepsi-nft-smart-contract-explained-962721b7361a</br>
+https://medium.com/tally-blog/erc721votes-dao-governance-comes-to-nfts-38b6b76f98c8</br>
+https://medium.com/donkeverse/101-guide-prevent-gas-wars-and-failed-mints-b425137ffbee</br>
+https://medium.com/coinmonks/the-freelancers-smart-contract-solidity-codes-explained-3abbac8ac03b</br>
+### Repos
+https://github.com/1001-digital
