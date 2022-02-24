@@ -25,3 +25,6 @@ https://medium.com/donkeverse/101-guide-prevent-gas-wars-and-failed-mints-b42513
 https://medium.com/coinmonks/the-freelancers-smart-contract-solidity-codes-explained-3abbac8ac03b</br>
 ### Repos
 https://github.com/1001-digital
+
+### Studies
+https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches#phase-4-metadata-reveal
