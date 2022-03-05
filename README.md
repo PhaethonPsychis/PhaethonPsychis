@@ -23,6 +23,7 @@ https://betterprogramming.pub/nft-beginner-tutorial-pepsi-nft-smart-contract-exp
 https://medium.com/tally-blog/erc721votes-dao-governance-comes-to-nfts-38b6b76f98c8</br>
 https://medium.com/donkeverse/101-guide-prevent-gas-wars-and-failed-mints-b425137ffbee</br>
 https://medium.com/coinmonks/the-freelancers-smart-contract-solidity-codes-explained-3abbac8ac03b</br>
+https://medium.com/@chiqing/ethereum-standard-erc165-explained-63b54ca0d273</br>
 ### Repos
 https://github.com/1001-digital
 
