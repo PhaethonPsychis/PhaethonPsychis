@@ -1,6 +1,7 @@
 ### Hi there 👋
-<br>I am Phaethon Psychis a passionate founder. I explore the Metaverse in the discourse of Architecture, Urban Design, Decentralized Public Policy Platforms. I want to help the citizens of the world to have fair access to growth and funding mechanisms. In more simple terms I build technologies to allow people to find a job and put food on the table while helping society to advance.</br>
-<br>Before you ask: My surname Psychis arrives from the Greek work Psyche that means soul. A direct translation of my surname in English is "soulman". Phaethon the Soulman. I like Psychis pronounced Saikeez. It has character and helps breake the ice.Many people ask me if I am psychic. Not yet</br>
+<br>Phaethon Psychis is a person who likes to explore different aspects of the world, especially in terms of architecture and design. He also believes that everyone should have an equal chance to succeed in life, and so he creates technology that can help people find employment and support themselves and their families.</br>
+<br>We are currently working tp create a version of the metaverse using blockchain technologies</br>
+<br>My surname is Psychis, which comes from the Greek word for "soul." Many people ask if I am psychic, and the answer is no.</br>
 
 <!--
 **PhaethonPsychis/PhaethonPsychis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
