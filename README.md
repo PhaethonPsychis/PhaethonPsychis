@@ -31,3 +31,8 @@ https://github.com/1001-digital
 
 ### Studies
 https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches#phase-4-metadata-reveal
+
+### Basic stuff to make life easier for newbies
+To install the openzeppelin package you need npm and node.js Below are the instructions to do it
+https://www.npmjs.com/package/@openzeppelin/contracts
+https://treehouse.github.io/installation-guides/mac/node-mac.html#:~:text=To%20see%20if%20NPM%20is,see%20something%20like%20this%201.4.
