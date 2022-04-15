@@ -1,4 +1,5 @@
 ### Hi there 👋
+I like Ethereum, Solidity, designing cities and building very large scale construction projects. I bring all these together in Fractional Cities. Up until very recently the design of a city was stored as a Python script on a HD. Using the Metaverse we can now make it a reality.<br> Its time to build!<br>
 <br>Phaethon Psychis is a person who likes to explore different aspects of the world, especially in terms of architecture and design. He also believes that everyone should have an equal chance to succeed in life, and so he creates technology that can help people find employment and support themselves and their families.</br>
 <br>We are currently working tp create a version of the metaverse using blockchain technologies</br>
 <br>My surname is Psychis, which comes from the Greek word for "soul." Many people ask if I am psychic, and the answer is no.</br>
