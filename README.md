@@ -12,11 +12,11 @@ Urbanism 3.0 is building the ultimate abstract foundational layer for cities com
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Metaverse Lands
+- 🔭 I’m currently working on 0XDDRL a Decentralized Design Research Lab
 - 🌱 I’m currently learning as much as I can on solidity coding
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Architecture and Construction
+- 💬 Ask me about Urbanism Architecture and Construction on blockchain
 - 📫 How to reach me: rndfactory@protonmail.com
 - 😄 Pronouns: Hey Phae
 - ⚡ Fun fact: We are building a metaverse
