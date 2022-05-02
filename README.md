@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am developing Urbanism 3.0 X 0XDDRL
-Urbanism 3.0 is building the ultimate abstract foundational layer for cities comprised of protocols and applications, built on top of a programmable blockchain allowing anyone to create their own arbitrary rules for urban developments<br> Its time to build!<br>
+Urbanism 3.0 is building the ultimate abstract foundational layer for cities comprised of protocols and applications, built on top of a programmable blockchain allowing anyone to create their own arbitrary rules for urban developments. Its time to build!<br>
 0XDDRL is a research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urban Design and to help shape the domain of Urbanism 3.0 as an area of study and a framework to explore, invent and construct our collective future.<br>
 
 <br>Phaethon Psychis is a person who likes to explore different aspects of the world, especially in terms of architecture and design. He also believes that everyone should have an equal chance to succeed in life, and so he creates technology that can help people find employment and support themselves and their families.</br>
