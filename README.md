@@ -1,5 +1,8 @@
 ### Hi there 👋
-I like Ethereum, Solidity, designing cities and building very large scale construction projects. I bring all these together in Fractional Cities. Up until very recently the design of a city was stored as a Python script on a HD. Using the Metaverse we can now make it a reality.<br> Its time to build!<br>
+I am developing Urbanism 3.0 X 0XDDRL
+Urbanism 3.0 is building the ultimate abstract foundational layer for cities comprised of protocols and applications, built on top of a programmable blockchain allowing anyone to create their own arbitrary rules for urban developments<br> Its time to build!<br>
+0XDDRL is a research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urban Design and to help shape the domain of Urbanism 3.0 as an area of study and a framework to explore, invent and construct our collective future.<br>
+
 <br>Phaethon Psychis is a person who likes to explore different aspects of the world, especially in terms of architecture and design. He also believes that everyone should have an equal chance to succeed in life, and so he creates technology that can help people find employment and support themselves and their families.</br>
 <br>We are currently working tp create a version of the metaverse using blockchain technologies</br>
 <br>My surname is Psychis, which comes from the Greek word for "soul." Many people ask if I am psychic, and the answer is no.</br>
