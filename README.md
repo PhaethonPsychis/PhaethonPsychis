@@ -1,4 +1,6 @@
 # Helping communities and individuals design their web3 futures
+![WE3 GITHUB](https://user-images.githubusercontent.com/80890815/171815603-1226cefb-b2fb-43ed-820a-f97084d7b101.png)
+
 ### Hi there 👋
 Web3 Worlds is an agency on-chain using programmable web3 technologies to help communities design and bring into existence our collective futures.
 We are developing TINCAN TOKEN. 
