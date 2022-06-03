@@ -2,11 +2,10 @@
 ![TINCAN AGENCY](https://user-images.githubusercontent.com/80890815/171818300-290b80ba-06b7-474f-acd6-80a578c6eef8.png)
 
 ### Hi there 👋
-Web3 Worlds is an agency on-chain using programmable web3 technologies to help communities design and bring into existence our collective futures.
-We are developing TINCAN TOKEN. 
-
+TINCAN is an agency on-chain helping communities design their web3 futures and bring them into existence. To this end We are developing the TINCAN TOKEN project. <br><br>
+TINKAN helps individuals start their journey in web3 with foresight. Our personal advisor services We invite you to join our foresight community 
 ## Learn to leverage web3-crypto to become future-fit.
-This is a personal advisory service. It is about knowing where to go, about having a view of the future: a vision of knowing what to build and why.
+This is a personal advisor services. It is about knowing where to go, about having a view of the future: a vision of knowing what to build and why.
 <!--
 **PhaethonPsychis/PhaethonPsychis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
