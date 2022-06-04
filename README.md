@@ -3,7 +3,7 @@
 ![Frame 13](https://user-images.githubusercontent.com/80890815/171826955-9f7cb0b4-8f26-40f7-b2b0-a2acc7896f1c.png)
 
 ### Hi there 👋
-TINCAN is an agency on-chain helping communities design their web3 futures and bring them into existence. To this end We are developing the TINCAN TOKEN project. <br><br>
+Web3Worlds is an agency on-chain helping communities design their web3 futures and bring them into existence. To this end we are developing the TINCAN TOKEN project. <br><br>
 
 https://github.com/PhaethonPsychis/web3worlds
 
