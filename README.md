@@ -1,12 +1,11 @@
-# Helping communities and individuals design their web3 futures
+# Helping communities design their web3 futures
 
 ![Frame 13](https://user-images.githubusercontent.com/80890815/171826955-9f7cb0b4-8f26-40f7-b2b0-a2acc7896f1c.png)
 
 ### Hi there 👋
 TINCAN is an agency on-chain helping communities design their web3 futures and bring them into existence. To this end We are developing the TINCAN TOKEN project. <br><br>
 TINKAN helps individuals start their journey in web3 with foresight. Our personal advisor services We invite you to join our foresight community 
-# Become future-fit. Learn to leverage web3-crypto.
-We provide Personal Advisor Services. This is not a financial sdvice. It is about knowing where to go, about having a view of the future: a vision of knowing why and how to support the web3 ecosystem to elevate yourself. 
+
 <!--
 **PhaethonPsychis/PhaethonPsychis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
